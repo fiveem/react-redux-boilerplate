@@ -1,4 +1,4 @@
-import { UPDATE_RESOURCE } from './types'
+import { UPDATE_RESOURCE } from '../constants'
 
 export function updateResource(resource) {
     return dispatch => {

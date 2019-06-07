@@ -1,4 +1,4 @@
-import { UPDATE_RESOURCE } from '../actions/types'
+import { UPDATE_RESOURCE } from '../constants'
 
 const initialState = {
     value: 0

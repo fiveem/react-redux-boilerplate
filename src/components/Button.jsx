@@ -1,10 +1,4 @@
 import React from 'react'
-import { connect } from 'react-redux'
-import { updateResource } from '../actions/resource'
-
-const mapDispatchToProps = {
-    updateResource
-}
 
 class Button extends React.Component {
     render() {
@@ -12,4 +6,4 @@ class Button extends React.Component {
     }
 }
 
-export default connect(null, mapDispatchToProps)(Button)
+export default Button

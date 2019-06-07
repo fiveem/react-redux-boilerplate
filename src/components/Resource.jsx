@@ -1,11 +1,4 @@
 import React from 'react'
-import { connect } from 'react-redux'
-
-const mapStateToProps = state => {
-    return {
-        resource: state.resource
-    }
-}
 
 class Resource extends React.Component {
     render() {
@@ -16,4 +9,4 @@ class Resource extends React.Component {
     }
 }
 
-export default connect(mapStateToProps)(Resource)
+export default Resource

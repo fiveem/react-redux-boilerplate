@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from '../components/Button'
-import Resource from '../components/Resource'
+import Button from '../containers/Button'
+import Resource from '../containers/Resource'
 
 const Home = () => (
     <div>
