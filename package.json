@@ -1,6 +1,6 @@
 {
   "name": "@fiveem/react-redux-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Redux Boilerplate",
   "keywords": [
     "react",
@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/fiveem/react-redux-boilerplate#readme",
   "dependencies": {
-    "node-sass": "^4.12.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-redux": "^7.0.3",
-    "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
-    "redux": "^4.0.1",
+    "node-sass": "^4.13.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
